@@ -1,0 +1,7 @@
+->	In interiorul for-ului am calculat elementele a trei vectori
+(vR, vG, vB = nr de pixeli care au valoare R/G/B).
+La sfarsit am concatenat cei trei vectori.
+
+-> Pentru a evita utilizarea instructiunilor repetitive (for, while etc),
+am folosit atribuiri de forma [aux1 = H(H >= inf)], unde aux1 va fi un vector
+care contine toate elementele din matricea H mai mari sau egale cu inf.
